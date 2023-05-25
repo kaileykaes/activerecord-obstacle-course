@@ -28,6 +28,7 @@ describe 'ActiveRecord Obstacle Course, Week 3' do
 
     # ------------------ Using ActiveRecord ----------------------
     # Solution goes here
+      
     # ------------------------------------------------------------
 
     # Expectation
